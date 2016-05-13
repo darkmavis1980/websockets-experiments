@@ -1,0 +1,12 @@
+{
+  "name": "microserver",
+  "version": "0.0.3",
+  "description": "Micro HTTP Server",
+  "main": "server.js",
+  "author": "Alessio Michelini",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3",
+    "ws": "^1.1.0"
+  }
+}
