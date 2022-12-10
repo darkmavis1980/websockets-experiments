@@ -6,7 +6,7 @@
   "author": "Alessio Michelini",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.13.3",
+    "express": "^4.17.3",
     "ws": "^7.1.0"
   }
 }
